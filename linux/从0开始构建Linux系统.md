@@ -90,9 +90,7 @@ net0: 52:54:00:12:34:56 using 82540em on 0000:00:03.0 (open)
   [Link:up, TX:0 TXE:0 RX:0 RXE:0]
 ```
 
-可以
-
-看见在BIOS完成自检后检查各个启动介质，Hard Disk、Floppy、DVD/CD、ROM找不到可以启动的镜像后就停止下面的启动流程了。
+可以看见在BIOS完成自检后检查各个启动介质，Hard Disk、Floppy、DVD/CD、ROM找不到可以启动的镜像后就停止下面的启动流程了。
 
 ## 获取并编译linux内核源代码
 
