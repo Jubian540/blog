@@ -1,4 +1,4 @@
-# Ubuntu搭建和挂在NFS
+# Ubuntu搭建和挂载NFS
 
 ## 服务器上操作
 
